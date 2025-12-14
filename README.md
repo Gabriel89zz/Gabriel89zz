@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/50/0b/27/500b27120a0a261bfab28f0390bf48df.gif " width="100%" style="border-radius: 10px;"/>
+  <img src="https://i.postimg.cc/BnMKtCvL/5d91a69ade488948d864eb0c1eeb83da.gif " width="100%" style="border-radius: 10px;"/>
   <h1>👋Hi, I'm Hector</h1>
 </div>
 
