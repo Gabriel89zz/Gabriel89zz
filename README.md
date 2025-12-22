@@ -51,17 +51,12 @@
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://www.buymeacoffee.com/elcompaross">
     <img src="https://img.shields.io/badge/Apóyame-Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-</div> -->
+</div>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/elcompaross">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=elcompaross&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" />
-  </a>
-</p>
 <!-- <div align="center">
   <br/>
   <img src="https://media.giphy.com/media/uVMwSJde5n7a0/giphy.gif" width="100%" style="border-radius: 10px;" />
