@@ -52,7 +52,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/Gabriel89zz">
+  <a href="https://www.buymeacoffee.com/elcompaross">
     <img src="https://img.shields.io/badge/Apóyame-Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </div>
