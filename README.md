@@ -8,6 +8,7 @@
 <img src="https://i.postimg.cc/rsYJS9h5/output-onlinegiftools.gif" align="right" width="40%" style="border-radius: 10px;"/>
 
 ### 👨‍💻 About Me
+
 - 🎓 Computer Engineering Student.
 
 - 🛠️ I love coding tools that solve real-world problems.
@@ -17,8 +18,8 @@
 - ⚡ Interests: Football (Soccer) & Anime.
 
 - 🌱 Currently learning: C# & Software Architecture.
-<br clear="all" /> 
-    
+  <br clear="all" />
+
 <br/>
 
 <div align="center">
@@ -48,13 +49,27 @@
   </a>
 </div>
 
-
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.buymeacoffee.com/elcompaross">
     <img src="https://img.shields.io/badge/Apóyame-Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
+</div> -->
+
+<div style="text-align: center; margin: 20px 0;">
+        <script type="text/javascript" 
+                src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+                data-name="bmc-button" 
+                data-slug="elcompaross" 
+                data-color="#FFDD00" 
+                data-emoji="" 
+                data-font="Poppins" 
+                data-text="Buy me a coffee" 
+                data-outline-color="#000000" 
+                data-font-color="#000000" 
+                data-coffee-color="#ffffff">
+        </script>
 </div>
 
 <!-- <div align="center">
